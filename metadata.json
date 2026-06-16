@@ -1,0 +1,6 @@
+{
+  "name": "Clover Engine",
+  "description": "A 3D game engine specifically designed for ray-casted style games with 360-degree freedom, map editing, textures, and CloverScript AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
