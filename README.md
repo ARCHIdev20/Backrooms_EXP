@@ -1,5 +1,8 @@
 # BACKROOMS EXPLORATION
 ```
+<video src="assets/untitled.mp4" width="100%" controls></video>
+
+```
 06/16/2026 - PROTOTYPE PHASE!
 
 I've Built this backrooms exploration game with the help of Gemini, though this one is my first prototype
@@ -9,5 +12,4 @@ overall mechanics are doing pretty well. So yeah I will get back to this after a
 it up but if you want you can download it and try for yourself maybe you got some ideas to put!
 
 Have fun exploring the game!
-```
 
