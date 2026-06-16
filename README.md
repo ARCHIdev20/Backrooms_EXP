@@ -1,24 +1,13 @@
-<<<<<<< HEAD
-# Backrooms_EXP
-=======
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# BACKROOMS EXPLORATION
+```
+06/16/2026 - PROTOTYPE PHASE!
 
-# Run and deploy your AI Studio app
+I've Built this backrooms exploration game with the help of Gemini, though this one is my first prototype
+so you might find lots of bugs, glitches expecially with how the shadows are casted and many unnecessary
+things in the codebase I have no time to clean this one yet but the map/environment, the movements and the
+overall mechanics are doing pretty well. So yeah I will get back to this after a couple of days to clean
+it up but if you want you can download it and try for yourself maybe you got some ideas to put!
 
-This contains everything you need to run your app locally.
+Have fun exploring the game!
+```
 
-View your app in AI Studio: https://ai.studio/apps/c30d9f8d-43df-4f9a-ad67-750537c1e4e1
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
->>>>>>> 128f996 (Initial commit)
