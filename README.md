@@ -95,7 +95,7 @@ Click **▶ Play Game** in the top-right corner to enter the game. Your mouse wi
 ### Camera Filters
 
 Before hitting Play, you can pick a visual filter from the **Lens** dropdown in the header:
-
+> **Note: The filters makes the game LAG**
 | Filter | Effect |
 |--------|--------|
 | Clean / None | Default look |
