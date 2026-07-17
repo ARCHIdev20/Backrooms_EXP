@@ -12,16 +12,9 @@ I've Built this backrooms exploration game in Google AI Studio with the help of 
 so you might find lots of bugs, glitches expecially with how the shadows are casted and many unnecessary
 things in the codebase I have no time to clean this one yet but the map/environment, the movements and the
 overall mechanics are doing pretty well. So yeah I will get back to this after a couple of days to clean
-it up but if you want you can download it and try for yourself maybe you got some ideas to put!
-
-Have fun exploring the game!
-
-## Run Locally
-# Backrooms EXP — Local Setup Guide
+it up but if you want you can download it and try for yourself maybe you got some ideas to put.
 
 > **Prototype Notice:** This is an early-stage demo. The editor UI contains tools that are still being built and aren't functional yet — that's intentional. What *does* work: the game itself, the Texture Editor, and the Sprite/Model Editor. Everything else is a work in progress and will be cleaned up in a future update.
-
----
 
 ## Prerequisites
 
@@ -29,8 +22,6 @@ Before you start, make sure you have the following installed:
 
 **Node.js** v18 or newer [nodejs.org](https://nodejs.org)
 **Git** Any recent version [git-scm.com](https://git-scm.com)
-
-> **Not sure if you have Node.js?** Open a terminal and run `node -v`. If you see a version number like `v18.x.x`, you're good. If not, download it from the link above.
 
 ---
 
